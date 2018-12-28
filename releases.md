@@ -1,4 +1,10 @@
 # Liste des versions publiées
+Nous avons adopté la convention de versionning MAJOR.MINOR.HOTFIX (x.x.x) :
+
+* Changement de HOTFIX : Correction de bugs
+* Changement de MINEUR : Ajout de nouvelles fonctionnalités ou correction de bugs importantes
+* Changement de MAJOR  : Changement important dans l'application
+
 
 ## 1.0.0
 Mise en ligne en août 2018
